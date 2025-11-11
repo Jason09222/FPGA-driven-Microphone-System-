@@ -61,17 +61,28 @@ Extend on your basic I2S microphone system. This could be:
 • Electronics 
 
   o Supporting microphones of other protocols 
+  
   o Adding physical control methods to the audio 
+  
   o Others 
+  
 • FPGA 
   o DSP (Volume/Gain control, FIR filter, etc.) 
+  
   o Audio monitoring 
+  
   o Audio format (sample rate, etc.) 
+  
   o Others 
+  
 • Software application 
+
   o Audio messaging 
+  
   o Audio monitoring 
+  
   o Audio networking 
+  
   o Others 
   
 Be curious and use your creativity for task 2. 
