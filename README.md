@@ -15,3 +15,5 @@ opened with an application such as MATLAB to display the waveform or playback.
 The second task will be a more open-ended system extension task where teams can decide 
 what features to add to their microphone system. See the deliverables and talk to your tutors 
 for what options can you extend on. 
+<img width="521" height="274" alt="image" src="https://github.com/user-attachments/assets/40f1c7ab-a288-44bd-9915-32b3ec4fb8fc" />
+** Development Board –  **
