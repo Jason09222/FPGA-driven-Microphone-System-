@@ -70,7 +70,11 @@ Be curious and use your creativity for task 2.
 
 ## References 
 • https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html 
+
 • https://www.xilinx.com/products/silicon-devices/soc/zynq-ultrascale-mpsoc.html 
+
 • https://www.adafruit.com/product/3421 
+
 • https://digilent.com/reference/pmod/pmodbb/reference-manual?redirect=1 
+
 • https://en.wikipedia.org/wiki/I%C2%B2S 
