@@ -37,12 +37,16 @@ protocol is being used to transfer the sampled audio data (digital) to the FPGA-
 processing pipeline in the project. 
 
 ## Source Code Structure 
-<img width="553" height="331" alt="image" src="https://github.com/user-attachments/assets/ef0dbafe-8e94-456d-acf7-2a61a4f8842b" 
+<img width="553" height="331" alt="image" src="https://github.com/user-attachments/assets/0f8276b1-0524-46c6-b10f-5e3398923d4f" />
+
   
 ## Components Provided 
 • 1x Kria KV260 Vision AI Starter Kit 
+
 • 1x Power Supply 
+
 • 2x I2S MEMS Microphone 
+
 • Wires 
 
 ## Deliverables 
@@ -50,22 +54,26 @@ Task1:
 Design and develop a basic I2S microphone system using the provided I2S MEMS microphones 
 and the Kria development board. The system should be able to record an audio clip from the 
 microphone that are wired to the PMOD pins connected to the FPGA of the MPSoC. 
+
 Task2: 
 Extend on your basic I2S microphone system. This could be: 
+
 • Electronics 
-o Supporting microphones of other protocols 
-o Adding physical control methods to the audio 
-o Others 
+
+  o Supporting microphones of other protocols 
+  o Adding physical control methods to the audio 
+  o Others 
 • FPGA 
-o DSP (Volume/Gain control, FIR filter, etc.) 
-o Audio monitoring 
-o Audio format (sample rate, etc.) 
-o Others 
+  o DSP (Volume/Gain control, FIR filter, etc.) 
+  o Audio monitoring 
+  o Audio format (sample rate, etc.) 
+  o Others 
 • Software application 
-o Audio messaging 
-o Audio monitoring 
-o Audio networking 
-o Others 
+  o Audio messaging 
+  o Audio monitoring 
+  o Audio networking 
+  o Others 
+  
 Be curious and use your creativity for task 2. 
 
 ## References 
